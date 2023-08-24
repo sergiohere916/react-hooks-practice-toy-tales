@@ -47,6 +47,12 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": -2
+    },
+    {
+      "name": "Zurg",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5Bz1SlyOPAHwnuEbvKXZ1U5Yvr4NSwfmhfg&usqp=CAU",
+      "likes": 0,
+      "id": 9
     }
   ]
 }
